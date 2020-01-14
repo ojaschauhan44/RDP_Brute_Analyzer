@@ -24,7 +24,7 @@ foreach ($log in $logs)
             combineLogs
             $ipsDenied += $combinedLog
         }
-        4625 {
+        4624 {
             combineLogs
             $ipsAllowed += $combinedLog
         }
